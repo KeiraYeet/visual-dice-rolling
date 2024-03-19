@@ -1,2 +1,4 @@
 # visual-dice-rolling
-Dice rolling with pygame
+Learning pygame!
+Dice rolling with pygame.
+Press 'R' to roll the dices
